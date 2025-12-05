@@ -26,17 +26,17 @@
 
 ### 🛠️ Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,sqlite" />
 </p>
 
 ### ⚙️ Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,spring,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,spring,bootstrap" />
 </p>
 
 ### 🗄️ Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
 ### 🔧 Tools & Platforms  
