@@ -24,7 +24,22 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,redux,nodejs,mysql,git,github,spring" />
+### 🛠️ Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python" />
+</p>
+
+### ⚙️ Frameworks & Libraries  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,spring,bootstrap" />
+</p>
+
+### 🗄️ Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🔧 Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
 </p>
