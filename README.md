@@ -14,7 +14,7 @@
 ---
 
 ### 🌐 Connect with Me
-<a href="www.linkedin.com/in/teja-injamreddy-a109b8264">
+<a href="www.linkedin.com/in/teja-injamreddy-a109b8264" alt="opps..!😔">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
