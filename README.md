@@ -8,7 +8,7 @@
 - 🌱 Learning: **React.js** & **Spring Boot**
 - 👯 Looking to collaborate on: **Java + React projects**
 - 📫 Reach me at: **injamreddyteja@gmail.com**
-- 💼 Resume: [Click to View]("https://drive.google.com/file/d/1PdIcl_8E3W8B6MC2uD_nk5_80G4oRK34/view?usp=drive_link")
+- 💼 Resume: [Click to View](https://drive.google.com/file/d/1PdIcl_8E3W8B6MC2uD_nk5_80G4oRK34/view?usp=drive_link)
 - 🔥 Fun fact: I learn fast and love solving problems.
 
 ---
