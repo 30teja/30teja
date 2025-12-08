@@ -8,7 +8,7 @@
 - 🌱 Learning: **React.js** & **Spring Boot**
 - 👯 Looking to collaborate on: **Java + React projects**
 - 📫 Reach me at: **injamreddyteja@gmail.com**
-- 💼 Resume: [Click to View](YOUR_SHORT_RESUME_LINK)
+- 💼 Resume: [Click to View]("https://drive.google.com/file/d/1PdIcl_8E3W8B6MC2uD_nk5_80G4oRK34/view?usp=drive_link")
 - 🔥 Fun fact: I learn fast and love solving problems.
 
 ---
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://leetcode.com/YOUR_NAME" target="_blank">
+<a href="https://leetcode.com/cO6WF1oaRQ" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
 </a>
 
